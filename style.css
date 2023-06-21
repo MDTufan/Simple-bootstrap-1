@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Sora", sans-serif !important;
+    line-height: 1.7 !important;
+    color:  #888 !important;
+}
+a {
+    font-size: 18px !important;
+    font-weight: bold !important;
+}
+
+.toli {
+    color: blue;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.Maddam {
+   color: rgb(140, 50, 243) !important;
+   font-weight: bold;
+   font-size: 30px !important;
+}
+.HERO {
+    background-image:linear-gradient(rgba(39, 30, 30, 0.693),rgba(39, 30, 30, 0.693)) ,url("img/g2.webp");
+    background-position: center;
+    background-size: cover;
+    
+}

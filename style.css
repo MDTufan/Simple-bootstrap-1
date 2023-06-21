@@ -45,3 +45,15 @@ a {
 .text2 {
     font-weight: bold !important;
 }
+.icon-1 {
+   color:#100d45 !important;
+   margin-left: 12px;
+   border-radius: 50%;
+  font-size: 70px;
+  width: 70px !important;
+  height: 80px !important;
+}
+
+.card {
+    background-color: #888 !important;
+}

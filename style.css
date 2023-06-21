@@ -34,3 +34,14 @@ a {
     background-size: cover;
     
 }
+
+.display-4 {
+    font-weight: bold !important ;
+}
+
+.text1 {
+    font-weight: bold !important;
+}
+.text2 {
+    font-weight: bold !important;
+}
